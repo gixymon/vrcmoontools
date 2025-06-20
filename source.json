@@ -1,18 +1,15 @@
 {
     "name":"VRCMoonTools",
-    "id":"com.gixymon.moontools",
+    "id":"com.gixymon.vrcmoontools",
     "url":"https://gixymon.github.io/vrcmoontools/index.json",
     "author":{
         "email":"gixymon@gmail.com",
         "name":"VRCMoonTools",
-        "url":"https://hello.vrchat.com"
+        "url":"https://github.com/gixymon/vrcmoontools"
     },
     "description":"Unity Editor Tools for VRChat avatars creation workflow",
     "infoLink":{
         "url":"https://github.com/gixymon/vrcmoontools",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
-        }
-    ]
 }
