@@ -19,7 +19,3 @@ Instructions will be added once the first release is available.
 ## Contributing
 
 Contributions are welcome! If you have ideas, feedback, or would like to contribute code, feel free to open an issue or a pull request.
-
-## License
-
-To be added if applicable.
